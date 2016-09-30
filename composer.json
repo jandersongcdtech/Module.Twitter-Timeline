@@ -1,10 +1,12 @@
 {
     "name": "jamesanderson9182/rhubarb-leaf-twitter-timeline",
     "description": "Provides a simple twitter feed",
+    "minimum-stability": "stable",
     "keywords": ["rhubarb","twitter", "feed", "rhubarbphp"],
     "homepage": "https://github.com/jandersongcdtech/Module.Twitter-Timeline",
     "license": "Apache 2.0",
+    "version": "1.0",
     "require": {
-        "rhubarbphp/module-leaf": "^1.0.0"
+        "rhubarbphp/module-leaf": "^1.0"
     }
 }
