@@ -1,6 +1,6 @@
 <?php
 
-namespace Your\WebApp\Leaves\TwitterFeed;
+namespace Rhubarb\Leaf\TwitterFeed;
 
 use Rhubarb\Leaf\Leaves\LeafModel;
 
