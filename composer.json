@@ -4,6 +4,11 @@
     "minimum-stability": "stable",
     "keywords": ["rhubarb","twitter", "feed", "rhubarbphp"],
     "homepage": "https://github.com/jandersongcdtech/Module.Twitter-Timeline",
+    "autoload": {
+        "psr-4": {
+            "Rhubarb\\Leaf\\TwitterFeed\\": "src/"
+        }
+    },
     "license": "Apache 2.0",
     "version": "1.0",
     "require": {
