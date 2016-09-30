@@ -2,10 +2,13 @@
 
 # Instalation 
 
-```
-composer require rhubarbphp/module-twitter-timeline
-```
+Add the following to the require part of your `composer.json`
 
+```
+"jamesanderson9182/rhubarb-leaf-twitter-timeline" : "dev-master"
+```
+Then `composer update`
+If that doesn't work try `composer update --ignore-platform-reqs`
 # Usage
 
 ```
